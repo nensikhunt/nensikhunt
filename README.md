@@ -71,7 +71,7 @@
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: [(Nensi Khunt)](https://www.linkedin.com/in/nensi-khunt-721301248/)
+* 💼 LinkedIn: [Nensi Khunt](https://www.linkedin.com/in/nensi-khunt-721301248/)
 * 📧 Email: [khuntnensi256@gmail.com](mailto:khuntnensi256@gmail.com)
 
 ---
