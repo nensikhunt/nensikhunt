@@ -47,13 +47,13 @@
 
 ## 🚀 Projects
 
-### 🔹 Project 1: E-Commerce Platform
+### 🔹 E-Commerce Platforms
 
 * Built Headless E-commerce
 * Features: Authentication, Cart, Payment Integration
 * Optimized performance & scalable frontend
 
-### 🔹 Project 2: SaaS Application
+### 🔹 SaaS Applications
 
 * Built a scalable SaaS platform using MERN stack
 * Features: Authentication, Subscription/Plans, Dashboard, API integrations
@@ -61,7 +61,7 @@
 * Designed clean architecture for multi-user environment
 * Focused on performance, security, and scalability
 
-### 🔹 Project 3: Admin Dashboard
+### 🔹 Admin Dashboards
 
 * Role-based access control
 * Analytics & reporting UI
